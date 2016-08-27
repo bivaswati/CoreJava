@@ -1,3 +1,5 @@
+package com.demo;
+
 class Hello{
 
 	public static void main(String args[]){
