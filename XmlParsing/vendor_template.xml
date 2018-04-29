@@ -1,0 +1,6 @@
+interface http://com/att/no/beif/bundle-ethernet/bundle-interface-name
+ description    http://com/att/no/beif/bundle-ethernet/bundle-interface-description
+ load-interval   http://com/att/no/beif/bundle-ethernet/bundle-load-interval
+ mtu http://com/att/no/beif/bundle-ethernet/bundle-interface-mtu
+ switchport access vlan http://com/att/no/beif/bundle-ethernet/vlan-id-outer
+

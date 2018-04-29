@@ -1,0 +1,9 @@
+<data xmlns="urn:ietf:params:xml:ns:netconf:base:1.0">		
+	<bundle-ethernet xmlns="http://com/att/no/beif">	
+		<bundle-interface-name>Port-Channel10</bundle-interface-name>
+		<bundle-interface-description>"pocnjrsv108 | Application | p4p1"</bundle-interface-description>
+		<bundle-interface-mtu>9214</bundle-interface-mtu>
+		<bundle-load-interval>30</bundle-load-interval>
+		<vlan-id-outer>10</vlan-id-outer>
+	</bundle-ethernet>	
+</data>		
