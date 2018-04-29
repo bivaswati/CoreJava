@@ -96,7 +96,7 @@ public class MailMe {
 
     public static void main(String[] args) {
         try {
-            MailMe.Send("dashbivas","Bivaswatimaa@005","bivas.dash@wipro.com","","Hello","Bivaswati");
+            MailMe.Send("dashbivas","give-password","bivas.dash@wipro.com","","Hello","Bivaswati");
         } catch (Exception e) {
             e.printStackTrace();
         }
